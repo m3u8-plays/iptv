@@ -300,12 +300,6 @@ http://138.121.15.230:9002/SONY/index.m3u8
 https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8
 #EXTINF:-1 tvg-id="Telecinco.ar@SD",TeleCinco Trelew (240p)
 https://videohd.live:19360/8016/8016.m3u8
-#EXTINF:-1 tvg-id="TelefeBuenosAires.ar@SD",Telefe Buenos Aires (1080p)
-http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
-#EXTINF:-1 tvg-id="TelefeInterior.ar@SD",Telefe Interior (720p)
-http://200.91.32.158:8080/telefehdvalle/index.m3u8
-#EXTINF:-1 tvg-id="TelefeInternacional.ar@SD",Telefe Internacional (576p)
-http://190.108.83.69:8000/play/a08l/index.m3u8
 #EXTINF:-1 tvg-id="Telemax.ar@SD",Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 #EXTINF:-1 tvg-id="Telenord.ar@SD",Telenord (720p) [Not 24/7]
@@ -380,10 +374,6 @@ http://138.121.113.175:8000/play/a04r/index.m3u8
 http://45.70.201.81:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@South",Disney Jr. Latin America South (576p)
 http://45.70.201.81:8000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="TelefeRosario.ar@SD",Telefe Rosario (720p) [Geo-blocked]
-https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
-#EXTINF:-1 tvg-id="TelefeTucuman.ar@SD",Telefe Tucuman (1080p)
-https://g2.mc-hor.transport.edge-access.net/a05/ngrp:elochotv-100168_all/Playlist.m3u8?sense=true
 #EXTINF:-1 tvg-id="Canal2MardelPlata.ar@SD",Canal 2 Mar del Plata (720p)
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
 #EXTINF:-1 tvg-id="EuropaEuropa.ar@SD",Europa Europa (1080p)
@@ -398,8 +388,6 @@ https://canalsantaferts.argtelemax.workers.dev/
 https://edge.enhdtv.com/litustv/index.m3u8
 #EXTINF:-1 tvg-id="Canal8MardelPlata.ar@SD",Canal 8 Mar del Plata (720p) [Not 24/7]
 https://canal8mdq.unpocodeawita.workers.dev/
-#EXTINF:-1 tvg-id="TelefeSalta.ar@SD",Telefe Salta
-https://canal11saltatv.unpocodeawita.workers.dev/
 #EXTINF:-1 tvg-id="NeoxTV.ar@SD",Neox TV [Not 24/7]
 https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
 #EXTINF:-1 tvg-id="NorteTV.ar@SD",Norte TV (720p) [Not 24/7]
@@ -412,8 +400,6 @@ http://200.115.120.1:8000/play/ca016/index.m3u8
 http://45.70.168.162:1503/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="EuropaEuropa.ar@SD",Europa Europa (1080p)
 http://38.252.238.18:8000/play/a01d/index.m3u8
-#EXTINF:-1 tvg-id="TelefeInternacional.ar@SD",Telefe Internacional (1080p)
-http://190.60.55.141:9083/play/a0pb/index.m3u8
 #EXTINF:-1 tvg-id="Encuentro.ar@SD",Encuentro (720p)
 http://138.59.227.20:8000/play/a05s/index.m3u8
 #EXTINF:-1 tvg-id="A24.ar@SD",A24 (1080p)
@@ -422,8 +408,6 @@ http://138.59.227.20:8000/play/a05u/index.m3u8
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://g1.proy-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/Playlist.m3u8
-#EXTINF:-1 tvg-id="Telefe.ar@SD",Telefe (1080p)
-http://45.173.231.22:8000/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="Canal12VenadoTuerto.ar@SD",Canal 12 Venado Tuerto (1080i)
 https://nd106.republicaservers.com:4433/hls/diegologonitv/index.m3u8
 #EXTINF:-1 tvg-id="Pakapaka.ar@SD",Pakapaka (576p)
